@@ -2,6 +2,7 @@
   You can use import statements to include partials:
  */
 @import 'imports/reset.css';
+@import "imports/tailwind-preflight.css";
 
 /*
   Or add your statements here:
@@ -30,3 +31,5 @@ a {
 .content {
   padding: 0 32px;
 }
+
+@tailwind utilities;
