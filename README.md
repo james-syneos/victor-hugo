@@ -109,8 +109,4 @@ All tasks starting with _build_ set the environment variable to `production` - t
 
 Now Netlify will build and deploy your site whenever you push to git.
 
-You can also click this button:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
-
 ## Enjoy!! 😸
